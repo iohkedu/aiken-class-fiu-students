@@ -63,7 +63,7 @@ By the end of the course, students will:
 1. [EUTxO Model](https://youtu.be/uy5bhqifld4?si=JKxqXFd6YEXWua2q)  
 2. [On-chain Code](https://youtu.be/7e0KLuwLVVg?si=mRQR8qUyWjA3YDH8)*  
 3. [Off-chain Code](https://youtu.be/EOz7k-KmxFc?si=6N0yRkSGAvriLmtz)  
-4. [Native Scripts](https://youtu.be/icl7cCqxZWw?si=C_f5YkywNAnNT1sR)*  
+4. [Native Scripts](https://youtu.be/icl7jCqxZWw?si=U2_elnsD5okIUs37)*  
 
 ---
 
