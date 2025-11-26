@@ -48,6 +48,12 @@ By the end of the course, students will:
 
 ---
 
+## 🗣️ Note About Video's Language
+
+The lectures in this course were recorded in Spanish and automatically dubbed into English using artificial intelligence. Some videos marked with an asterisk (`*`) couldn't be automatically translated, so English subtitles are provided instead.
+
+---
+
 ## 📚 **Course Modules**
 
 ### **Module 1 — Foundations of Cardano & Smart Contracts**
@@ -78,7 +84,7 @@ By the end of the course, students will:
 #### 🎥 *Lessons*
 
 5. [Introduction to MeshJS](https://youtu.be/TVFxwD0zHhA?si=Bl0zDfKtIwjulaUy)  
-6. [Simple Transactions with MeshJS](https://youtu.be/BCRUFOcEgzk?si=iOIgNZEm9erssSj8)*  
+6. [Simple Transactions with MeshJS](https://youtu.be/5I82AMY-D4c?si=S59uLPYodyqSbIxc)
 
 ---
 
